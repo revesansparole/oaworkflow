@@ -45,7 +45,7 @@
         ]
     }, 
     "readthedocs": {
-        "option": null
+        "project": "openalea.workflow"
     }, 
     "sphinx": {
         "option": null

@@ -18,7 +18,7 @@
         "E3j0mShzGlIxZ4xuVvZB7HiXPhFN37lQpK4zGpKLH2CxFT0wYsauAqlum29tXYMW7OGE/jZ5USKQh9F2sTxE1w=="
     ], 
     "./README.rst": [
-        "dfmWemSikTMqD1qrsveTd4AKyAbpfhr+m/VzfagmEAhrXgvxYJTb8CWOuCBGaTrNQsfhvu1IFFNfhGzem/oAvw=="
+        "IRtZdVhA1EDstOyo8khyK+RJSZluW4Ev57JG6Do0C88Ne1s1uCGDSYBxf5hV/49x2jSN50+V+ciJsTyzt7ctXA=="
     ], 
     "./doc/authors.rst": [], 
     "./doc/conf.py": [
@@ -36,6 +36,7 @@
     "./dvlpt_requirements.txt": [
         "hdkgY0Zg3KCVEA0QqBlwzP6P69qzGifSbM3+JtadWO1bsNRTpRDdaNTzd5a3D3C5NC3qoOlXOcFC4lClRDCTEw=="
     ], 
+    "./example/simple evaluation.py": [], 
     "./pkg_cfg.json": [], 
     "./pkg_hash.json": [], 
     "./requirements.txt": [
