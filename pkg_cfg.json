@@ -1,0 +1,43 @@
+{
+    "base": {
+        "namespace": null, 
+        "owner": "revesansparole", 
+        "pkg_fullname": "workflow", 
+        "pkgname": "workflow"
+    }, 
+    "doc": {
+        "description": "Workflow core of openalea", 
+        "keywords": ""
+    }, 
+    "github": {
+        "project": "workflow"
+    }, 
+    "license": {
+        "name": "mit", 
+        "organization": "oa", 
+        "project": "workflow", 
+        "year": "2015"
+    }, 
+    "pydist": {
+        "author_email": "revesansparole@gmail.com", 
+        "author_name": "revesansparole", 
+        "classifiers": [
+            "Development Status :: 2 - Pre-Alpha", 
+            "Intended Audience :: Developers", 
+            "License :: OSI Approved :: BSD License", 
+            "Natural Language :: English", 
+            "Programming Language :: Python :: 2"
+        ], 
+        "intended_versions": [
+            "27"
+        ]
+    }, 
+    "test": {
+        "option": "None"
+    }, 
+    "version": {
+        "major": "0", 
+        "minor": "1", 
+        "post": "0"
+    }
+}
