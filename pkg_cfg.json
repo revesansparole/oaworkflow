@@ -12,8 +12,14 @@
         "description": "Workflow core of openalea", 
         "keywords": ""
     }, 
+    "flake8": {
+        "option": null
+    }, 
     "github": {
         "project": "workflow"
+    }, 
+    "landscape": {
+        "option": null
     }, 
     "license": {
         "name": "mit", 

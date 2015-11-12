@@ -6,5 +6,6 @@ lice
 nose
 coverage
 mock
+flake8
 
 # }}

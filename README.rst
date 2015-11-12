@@ -13,6 +13,9 @@ workflow
     :target: https://travis-ci.org/revesansparole/workflow
 
 
+.. image:: https://landscape.io/github/revesansparole/workflow/master/landscape.svg?style=flat
+    :alt: Code health status
+    :target: https://landscape.io/github/revesansparole/workflow/master
 
 
 .. }}

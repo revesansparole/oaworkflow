@@ -4,6 +4,7 @@
     "./.gitignore": [
         "8K/+FuyVXfT708i69uVzQy6x/0wPNweNbHM8msJ+EHPL7LQakq+cwyZGBnoNeVTymZnLs9p83PQJb+wJckH35g=="
     ], 
+    "./.landscape.yml": [], 
     "./.travis.yml": [
         "FwsLpNILgu0mkWukmpkwVWxkt5nAnuz45ke0hSZ+5+PXxmxNhghqkyr5E57KHiUdCX6bB+eHu4zKw/+ORilIiw=="
     ], 
@@ -17,7 +18,7 @@
         "E3j0mShzGlIxZ4xuVvZB7HiXPhFN37lQpK4zGpKLH2CxFT0wYsauAqlum29tXYMW7OGE/jZ5USKQh9F2sTxE1w=="
     ], 
     "./README.rst": [
-        "a3yjAnty33cTpaB7XZeR6DijaCGdsWc29yhIVU4KtLE5orMhcsH8MWPsj0YtyiWb/tZhTuqY+KDlq8aQMQqThg=="
+        "HQyydYo4rmlwtHkgUHgCCkUFBhk4dOI8vfpkN/NGdAzYnjR6vSSz2TGscbRd/q/YAFFQ/7Fo0ZjqIoKhGCWiww=="
     ], 
     "./doc/authors.rst": [], 
     "./doc/conf.py": [
@@ -33,7 +34,7 @@
     "./doc/readme.rst": [], 
     "./doc/usage.rst": [], 
     "./dvlpt_requirements.txt": [
-        "ZwH2ppCeM3d999W6Kwp8kyJpC+XseMbJ+SI0AyUPSSrDro3TpwRN8fTuZ1LoUY9WCdhXHWT3w9FZq9XaBQ1E6Q=="
+        "hdkgY0Zg3KCVEA0QqBlwzP6P69qzGifSbM3+JtadWO1bsNRTpRDdaNTzd5a3D3C5NC3qoOlXOcFC4lClRDCTEw=="
     ], 
     "./pkg_cfg.json": [], 
     "./pkg_hash.json": [], 
@@ -41,7 +42,7 @@
         "AWuoxM/eZa+Zy1+ouKN+Lrc/SBs640mRZm3y4E/rbAOGZuvR7CtvYjlndWAzxwLd5fQj99R6tu0YJ/9TeDcx9w=="
     ], 
     "./setup.cfg": [
-        "Qd5dNpgOGpOcqUXIBDEYgBXy4exmo6mLfGNSEAmoJOSERNYEDZB+wrNatTf249MkUKRy+cqzaxnWEO6vL+H7ew=="
+        "MR3x51utEvwraK6muOyLMbqq8A4jjrYcHyPPVgewETl0oJnB9UcCaPzWW0XBPtQgz5MHukRkH+LXDFmlvRnS3w=="
     ], 
     "./setup.py": [
         "DGbNwSxIQHkzDKyKXaYfRcXPkdu7xKn8wjQW/qV2s7igSIUAdwnnVJfP6d6k+SQPlicpywEw+B97KvU7UsLgHA=="
@@ -66,6 +67,6 @@
     "./test/test_func_node.py": [], 
     "./test/test_node.py": [], 
     "./tox.ini": [
-        "evTH1o9tk++qlX67CUG/tr7trA9QoB+a4mb2PioYCde9dP91H7wnRpGJu1xyGcHGxoL5BbbB1znWD2dhETjrlA=="
+        "w2+nfBonIzB7Ay9mHJlkOj/E5C+7ZEK5eEJ6554g1tNi2gRKkMHlGmcvNPT6QCn+8bhDpp7lmThnNsgqRMHa6Q=="
     ]
 }
