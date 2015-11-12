@@ -12,6 +12,9 @@ workflow
     :alt: Travis build status
     :target: https://travis-ci.org/revesansparole/workflow
 
+.. image:: https://coveralls.io/repos/revesansparole/workflow/badge.svg?branch=master&service=github
+    :alt: Coverage report status
+    :target: https://coveralls.io/github/revesansparole/workflow?branch=master
 
 .. image:: https://landscape.io/github/revesansparole/workflow/master/landscape.svg?style=flat
     :alt: Code health status

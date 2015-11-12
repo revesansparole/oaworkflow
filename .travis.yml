@@ -10,10 +10,13 @@ python:
 install:
  - pip install -r requirements.txt
  - pip install -r dvlpt_requirements.txt
- 
+ - pip install coveralls
 
 # command to run tests, e.g. python setup.py test
 script: nosetests
 
+
+after_success:
+  coveralls
 
 # }}
