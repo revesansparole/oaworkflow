@@ -17,7 +17,7 @@
         "E3j0mShzGlIxZ4xuVvZB7HiXPhFN37lQpK4zGpKLH2CxFT0wYsauAqlum29tXYMW7OGE/jZ5USKQh9F2sTxE1w=="
     ], 
     "./README.rst": [
-        "F63MFv/IcoPgkDGsEY6WjJoCGmnPcBSxsNEZdgaWB0pDQmQiRDdSmViwAE+YwjWhLD1zZD/P3HF+9lmZuiwyOg=="
+        "a3yjAnty33cTpaB7XZeR6DijaCGdsWc29yhIVU4KtLE5orMhcsH8MWPsj0YtyiWb/tZhTuqY+KDlq8aQMQqThg=="
     ], 
     "./doc/authors.rst": [], 
     "./doc/conf.py": [
@@ -46,6 +46,13 @@
     "./setup.py": [
         "DGbNwSxIQHkzDKyKXaYfRcXPkdu7xKn8wjQW/qV2s7igSIUAdwnnVJfP6d6k+SQPlicpywEw+B97KvU7UsLgHA=="
     ], 
+    "./src/workflow.egg-info/PKG-INFO": [
+        "FIGQ75GX+2beKZZnXLver01aK8rJhJouzWCvNtSTKjnaTIOgyH/doRa4yQs+ZORgedyYiAG9CVNHU+f71ILtkQ=="
+    ], 
+    "./src/workflow.egg-info/SOURCES.txt": [], 
+    "./src/workflow.egg-info/dependency_links.txt": [], 
+    "./src/workflow.egg-info/not-zip-safe": [], 
+    "./src/workflow.egg-info/top_level.txt": [], 
     "./src/workflow/__init__.py": [
         "bXi4YRtInDLkaTvGi4V/ZIZpKXGCIgIw/Qm7wX5YZ+tM5kkkAAGCzzuDhxJDzcpoWKBE1UxDj7mT+40YH1DZQA==", 
         "fIn+GWAvhWfY/9NV/Sw6VXI4UIvx1OTgGxXQ1U5+9JFQ4vhuETzkaQvz8W4M9rMDYlL0vAeRmP2p2DyMgcvb9A=="
@@ -59,6 +66,6 @@
     "./test/test_func_node.py": [], 
     "./test/test_node.py": [], 
     "./tox.ini": [
-        "nwPatC6xEtM0Vvyz1+2aG4sNCQ89b5fAFFaUv0UjQAr4i1YdmzNRuV684T1qZOcFHWEuPsH9aF0WpIev08S9bw=="
+        "evTH1o9tk++qlX67CUG/tr7trA9QoB+a4mb2PioYCde9dP91H7wnRpGJu1xyGcHGxoL5BbbB1znWD2dhETjrlA=="
     ]
 }
