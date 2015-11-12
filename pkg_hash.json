@@ -1,7 +1,11 @@
 {
+    "./.coverage": [], 
     "./.coveragerc": [], 
     "./.gitignore": [
         "lp0pP0xxa+62aU80Vew750Qk/Shn4NtM464aLebb15fLCdDHow9A5g2KImTJ+WImcAJxeYnOM8NqRpIhPdyKHA=="
+    ], 
+    "./.travis.yml": [
+        "FwsLpNILgu0mkWukmpkwVWxkt5nAnuz45ke0hSZ+5+PXxmxNhghqkyr5E57KHiUdCX6bB+eHu4zKw/+ORilIiw=="
     ], 
     "./AUTHORS.rst": [], 
     "./CONTRIBUTING.rst": [], 
@@ -13,7 +17,7 @@
         "ra2y2oUajOs7MozuqoQXVDXUTxWmPDXggXHh3hKWJdI9WeEDAvu1NfVTYYgYMZp32kIWFnQEEt6KHmsNIyaIsA=="
     ], 
     "./README.rst": [
-        "NpInImcdK7HQFLVdzLlDEZbA9uAEZaKM6lTCUCfQi5aOf93nTfnCh9DJp9Dr0ZWsxXLXTQrH3g+rbgh7kRECnA=="
+        "F63MFv/IcoPgkDGsEY6WjJoCGmnPcBSxsNEZdgaWB0pDQmQiRDdSmViwAE+YwjWhLD1zZD/P3HF+9lmZuiwyOg=="
     ], 
     "./doc/authors.rst": [], 
     "./doc/contributing.rst": [], 
