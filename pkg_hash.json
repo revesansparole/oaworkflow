@@ -2,7 +2,7 @@
     "./.coverage": [], 
     "./.coveragerc": [], 
     "./.gitignore": [
-        "lp0pP0xxa+62aU80Vew750Qk/Shn4NtM464aLebb15fLCdDHow9A5g2KImTJ+WImcAJxeYnOM8NqRpIhPdyKHA=="
+        "8K/+FuyVXfT708i69uVzQy6x/0wPNweNbHM8msJ+EHPL7LQakq+cwyZGBnoNeVTymZnLs9p83PQJb+wJckH35g=="
     ], 
     "./.travis.yml": [
         "FwsLpNILgu0mkWukmpkwVWxkt5nAnuz45ke0hSZ+5+PXxmxNhghqkyr5E57KHiUdCX6bB+eHu4zKw/+ORilIiw=="
@@ -14,20 +14,26 @@
         "zwctPvRuwM3KN6Gv4wAN5/XmfQOqBJeJoEFgAPUXKSLszHjl/NvuRL6Mw4k45uIQ/sYmW/X5SnN5ID+OH+GhUw=="
     ], 
     "./MANIFEST.in": [
-        "ra2y2oUajOs7MozuqoQXVDXUTxWmPDXggXHh3hKWJdI9WeEDAvu1NfVTYYgYMZp32kIWFnQEEt6KHmsNIyaIsA=="
+        "E3j0mShzGlIxZ4xuVvZB7HiXPhFN37lQpK4zGpKLH2CxFT0wYsauAqlum29tXYMW7OGE/jZ5USKQh9F2sTxE1w=="
     ], 
     "./README.rst": [
         "F63MFv/IcoPgkDGsEY6WjJoCGmnPcBSxsNEZdgaWB0pDQmQiRDdSmViwAE+YwjWhLD1zZD/P3HF+9lmZuiwyOg=="
     ], 
     "./doc/authors.rst": [], 
+    "./doc/conf.py": [
+        "gTo0lQmHHwp8Clf41fBmZop4cDYZSK0GJjQEzqHPANQ6AM1tIJ70mqhJWIlXS22tz51+pNcoyu4HgndjvcgnhA=="
+    ], 
     "./doc/contributing.rst": [], 
     "./doc/history.rst": [], 
     "./doc/index.rst": [], 
     "./doc/installation.rst": [], 
+    "./doc/make.bat": [
+        "Tk/+eZHH7Ss0u6nDShjeISQZmDwP2+T79T9iaBXwWtSC2AJBYjifliRsFaupRval8lXgd0Jg4jNRMcDOC31oaw=="
+    ], 
     "./doc/readme.rst": [], 
     "./doc/usage.rst": [], 
     "./dvlpt_requirements.txt": [
-        "PMNMLcOL4W3uxGlMJBT9UE95RHRMUeDef02D51OybmIT51sBhkDv48R3ohQ82OjPwFf9sSnmnszpciNfXYCG2g=="
+        "ZwH2ppCeM3d999W6Kwp8kyJpC+XseMbJ+SI0AyUPSSrDro3TpwRN8fTuZ1LoUY9WCdhXHWT3w9FZq9XaBQ1E6Q=="
     ], 
     "./pkg_cfg.json": [], 
     "./pkg_hash.json": [], 
@@ -51,5 +57,8 @@
     ], 
     "./test/__init__.py": [], 
     "./test/test_func_node.py": [], 
-    "./test/test_node.py": []
+    "./test/test_node.py": [], 
+    "./tox.ini": [
+        "nwPatC6xEtM0Vvyz1+2aG4sNCQ89b5fAFFaUv0UjQAr4i1YdmzNRuV684T1qZOcFHWEuPsH9aF0WpIev08S9bw=="
+    ]
 }

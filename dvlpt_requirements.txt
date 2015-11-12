@@ -1,8 +1,10 @@
 # {{pkglts pydist.dvlpt_requirements,
+tox
+sphinx
 github3.py
-mock
 lice
-coverage
 nose
+coverage
+mock
 
 # }}

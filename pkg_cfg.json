@@ -35,8 +35,14 @@
             "27"
         ]
     }, 
+    "sphinx": {
+        "option": null
+    }, 
     "test": {
         "option": "None"
+    }, 
+    "tox": {
+        "option": null
     }, 
     "travis": {
         "option": null
