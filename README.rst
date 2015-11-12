@@ -27,3 +27,5 @@ Workflow core of openalea
 
 Set of definitions and algorithms to work with the workflow components system
 of the OpenAlea platform.
+
+Pb of dependency with openalea.core
