@@ -20,6 +20,9 @@ lib64
 .idea
 
 
+# coverage
+.coverage
+
 
 
 

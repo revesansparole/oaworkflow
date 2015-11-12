@@ -1,6 +1,7 @@
 {
+    "./.coveragerc": [], 
     "./.gitignore": [
-        "HAeSOcuumK9ii+wYpa8HOhCCoHnbUtQUPnJ+nlwIDYbLNl2n1CWBClECR74KbiqZj2xtTaV3i9tWgmKYbejC0Q=="
+        "lp0pP0xxa+62aU80Vew750Qk/Shn4NtM464aLebb15fLCdDHow9A5g2KImTJ+WImcAJxeYnOM8NqRpIhPdyKHA=="
     ], 
     "./AUTHORS.rst": [], 
     "./CONTRIBUTING.rst": [], 
@@ -22,7 +23,7 @@
     "./doc/readme.rst": [], 
     "./doc/usage.rst": [], 
     "./dvlpt_requirements.txt": [
-        "CON1LyTY3zpZbesoFCbvXL0GzkvJIYmwuUv5h4ZycKAHL44qsJb+fQbdm/vVuNf5T7LucRvXy0iriqiQZmFgiw=="
+        "PMNMLcOL4W3uxGlMJBT9UE95RHRMUeDef02D51OybmIT51sBhkDv48R3ohQ82OjPwFf9sSnmnszpciNfXYCG2g=="
     ], 
     "./pkg_cfg.json": [], 
     "./pkg_hash.json": [], 
@@ -30,7 +31,7 @@
         "AWuoxM/eZa+Zy1+ouKN+Lrc/SBs640mRZm3y4E/rbAOGZuvR7CtvYjlndWAzxwLd5fQj99R6tu0YJ/9TeDcx9w=="
     ], 
     "./setup.cfg": [
-        "QYCnUVMayyDRu7c/wBEMVaGu9NHjEMOS/UhuN7hNdyAPOqPIZjW7dRKEMuIhm8twpcIXxHhMNmGsxWodD3fqgg=="
+        "Qd5dNpgOGpOcqUXIBDEYgBXy4exmo6mLfGNSEAmoJOSERNYEDZB+wrNatTf249MkUKRy+cqzaxnWEO6vL+H7ew=="
     ], 
     "./setup.py": [
         "DGbNwSxIQHkzDKyKXaYfRcXPkdu7xKn8wjQW/qV2s7igSIUAdwnnVJfP6d6k+SQPlicpywEw+B97KvU7UsLgHA=="
@@ -39,8 +40,12 @@
         "bXi4YRtInDLkaTvGi4V/ZIZpKXGCIgIw/Qm7wX5YZ+tM5kkkAAGCzzuDhxJDzcpoWKBE1UxDj7mT+40YH1DZQA==", 
         "fIn+GWAvhWfY/9NV/Sw6VXI4UIvx1OTgGxXQ1U5+9JFQ4vhuETzkaQvz8W4M9rMDYlL0vAeRmP2p2DyMgcvb9A=="
     ], 
+    "./src/workflow/func_node.py": [], 
+    "./src/workflow/node.py": [], 
     "./src/workflow/version.py": [
         "9u2W46jEMEMq3ZJFhNBSDLcfV8R73vM1FPWlZz2LsxyOwW1/0fpDM16Yxig6tFhfdhNxz+Qw8gX0btUZqB898w=="
     ], 
-    "./test/__init__.py": []
+    "./test/__init__.py": [], 
+    "./test/test_func_node.py": [], 
+    "./test/test_node.py": []
 }

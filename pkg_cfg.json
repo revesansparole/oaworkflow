@@ -5,6 +5,9 @@
         "pkg_fullname": "workflow", 
         "pkgname": "workflow"
     }, 
+    "coverage": {
+        "option": null
+    }, 
     "doc": {
         "description": "Workflow core of openalea", 
         "keywords": ""

@@ -1,7 +1,8 @@
 # {{pkglts pydist.dvlpt_requirements,
 github3.py
-lice
 mock
+lice
+coverage
 nose
 
 # }}
