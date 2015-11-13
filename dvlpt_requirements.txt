@@ -1,4 +1,4 @@
-# {{pkglts pydist.dvlpt_requirements,
+# {{pkglts pysetup.dvlpt_requirements,
 tox
 sphinx
 github3.py
@@ -7,5 +7,4 @@ nose
 coverage
 mock
 flake8
-
 # }}

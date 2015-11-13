@@ -30,7 +30,10 @@
         "project": "workflow", 
         "year": "2015"
     }, 
-    "pydist": {
+    "pkglts": {
+        "use_prompts": false
+    }, 
+    "pysetup": {
         "author_email": "revesansparole@gmail.com", 
         "author_name": "revesansparole", 
         "classifiers": [
