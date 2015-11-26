@@ -1,8 +1,11 @@
 {
+    "_pkglts": {
+        "auto_install": true, 
+        "use_prompts": false
+    }, 
     "base": {
         "namespace": null, 
         "owner": "revesansparole", 
-        "pkg_fullname": "workflow", 
         "pkgname": "workflow"
     }, 
     "coverage": {
@@ -19,7 +22,7 @@
         "option": null
     }, 
     "github": {
-        "project": "workflow"
+        "project": "oaworkflow"
     }, 
     "landscape": {
         "option": null
@@ -30,9 +33,6 @@
         "project": "workflow", 
         "year": "2015"
     }, 
-    "pkglts": {
-        "use_prompts": false
-    }, 
     "pysetup": {
         "author_email": "revesansparole@gmail.com", 
         "author_name": "revesansparole", 
@@ -40,8 +40,7 @@
             "Development Status :: 2 - Pre-Alpha", 
             "Intended Audience :: Developers", 
             "License :: OSI Approved :: BSD License", 
-            "Natural Language :: English", 
-            "Programming Language :: Python :: 2"
+            "Natural Language :: English"
         ], 
         "intended_versions": [
             "27"
@@ -63,8 +62,8 @@
         "option": null
     }, 
     "version": {
-        "major": "0", 
-        "minor": "1", 
-        "post": "0"
+        "major": 0, 
+        "minor": 1, 
+        "post": 0
     }
 }

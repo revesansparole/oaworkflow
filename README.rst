@@ -8,17 +8,17 @@ workflow
     :alt: Documentation status
     :target: https://openaleaworkflow.readthedocs.org/en/latest/?badge=latest
 
-.. image:: https://travis-ci.org/revesansparole/workflow.svg?branch=master
+.. image:: https://travis-ci.org/revesansparole/oaworkflow.svg?branch=master
     :alt: Travis build status
-    :target: https://travis-ci.org/revesansparole/workflow
+    :target: https://travis-ci.org/revesansparole/oaworkflow
 
-.. image:: https://coveralls.io/repos/revesansparole/workflow/badge.svg?branch=master&service=github
+.. image:: https://coveralls.io/repos/revesansparole/oaworkflow/badge.svg?branch=master&service=github
     :alt: Coverage report status
-    :target: https://coveralls.io/github/revesansparole/workflow?branch=master
+    :target: https://coveralls.io/github/revesansparole/oaworkflow?branch=master
 
-.. image:: https://landscape.io/github/revesansparole/workflow/master/landscape.svg?style=flat
+.. image:: https://landscape.io/github/revesansparole/oaworkflow/master/landscape.svg?style=flat
     :alt: Code health status
-    :target: https://landscape.io/github/revesansparole/workflow/master
+    :target: https://landscape.io/github/revesansparole/oaworkflow/master
 
 
 .. }}

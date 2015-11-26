@@ -2,7 +2,7 @@
     "./.coverage": [], 
     "./.coveragerc": [], 
     "./.gitignore": [
-        "8K/+FuyVXfT708i69uVzQy6x/0wPNweNbHM8msJ+EHPL7LQakq+cwyZGBnoNeVTymZnLs9p83PQJb+wJckH35g=="
+        "Cjj173iKwyapq5Ah7NNorfangAxcnPUpZxV9Vy8G0kOzkR4HYnMh9r2ehoiaEAjJWkEUcWqglikoES9oAGrwJQ=="
     ], 
     "./.landscape.yml": [], 
     "./.travis.yml": [
@@ -18,7 +18,7 @@
         "E3j0mShzGlIxZ4xuVvZB7HiXPhFN37lQpK4zGpKLH2CxFT0wYsauAqlum29tXYMW7OGE/jZ5USKQh9F2sTxE1w=="
     ], 
     "./README.rst": [
-        "gNG/RGXRLoAIPqQRh6Fs4u1ZeNtH+XnKDfrBu9DWgrghMuR4zLYI9urM9lQdtgm3o0eYjUkkLFxpPjJ41Bp82Q=="
+        "dDFU0wQlXXXfMpYv1olIfo4sUSZ/5l2cf38POt5u0Q796Bk63iq25Oso18AJm5HDH+UmUKBYxWTKDAepQwCjqQ=="
     ], 
     "./doc/authors.rst": [], 
     "./doc/conf.py": [
@@ -34,16 +34,17 @@
     "./doc/readme.rst": [], 
     "./doc/usage.rst": [], 
     "./dvlpt_requirements.txt": [
-        "xUCGnV4SHFAG8AsrCmrBJylWvHDe4w6Bgxr8Qe8oAFafOkauFUhPEZzK6GXbOoMT8Db+y3SC30GgCsez5AxjQQ=="
+        "hdkgY0Zg3KCVEA0QqBlwzP6P69qzGifSbM3+JtadWO1bsNRTpRDdaNTzd5a3D3C5NC3qoOlXOcFC4lClRDCTEw=="
     ], 
+    "./example/map evaluation - func.py": [], 
+    "./example/map evaluation - workflow.py": [], 
+    "./example/map evaluation.py": [], 
     "./example/simple evaluation.py": [], 
-    "./pkg_cfg.json": [], 
-    "./pkg_hash.json": [], 
     "./requirements.txt": [
-        "vmiIOMqGhuXJBom/KrWFzvETfJmbSMcLkvZ6XDTcFWl7XRHJgu1tcb4eHn97TgcziEqpfD96M5qO0DV3z3S+CQ=="
+        "AWuoxM/eZa+Zy1+ouKN+Lrc/SBs640mRZm3y4E/rbAOGZuvR7CtvYjlndWAzxwLd5fQj99R6tu0YJ/9TeDcx9w=="
     ], 
     "./setup.cfg": [
-        "Ci8VluJYlIZRKYyATSTusmyfewvnwk7Jsl0PHvBPgFP6Y5zQhiN4x7cTIKB9K4BpWnf5n3Y/Gm325bqaV30fzw=="
+        "A5ejpKHhjyaF/BmVh1AkLhbrkXtZK0xaHprzQ55ooFioSn0+9B8W5Rsus8hX/FI2iIkg/oKJTNp9HhN477zfSA=="
     ], 
     "./setup.py": [
         "DGbNwSxIQHkzDKyKXaYfRcXPkdu7xKn8wjQW/qV2s7igSIUAdwnnVJfP6d6k+SQPlicpywEw+B97KvU7UsLgHA=="
@@ -72,6 +73,6 @@
     "./test/test_sub_port_graph.py": [], 
     "./test/test_sub_port_graph.svg": [], 
     "./tox.ini": [
-        "w2+nfBonIzB7Ay9mHJlkOj/E5C+7ZEK5eEJ6554g1tNi2gRKkMHlGmcvNPT6QCn+8bhDpp7lmThnNsgqRMHa6Q=="
+        "T2R/UAeMZY3e7SJAcAygYrxVu0OOWjQU/8E4q/A+Ow/MgTVXRuEHRVWOwijN2oUVkSxrzL68ba7b7KpOwLdRYw=="
     ]
 }
