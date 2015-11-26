@@ -4,9 +4,9 @@ workflow
 
 .. {{pkglts doc,
 
-.. image:: https://readthedocs.org/projects/openaleaworkflow/badge/?version=latest
+.. image:: https://readthedocs.org/projects/oaworkflow/badge/?version=latest
     :alt: Documentation status
-    :target: https://openaleaworkflow.readthedocs.org/en/latest/?badge=latest
+    :target: https://oaworkflow.readthedocs.org/en/latest/?badge=latest
 
 .. image:: https://travis-ci.org/revesansparole/oaworkflow.svg?branch=master
     :alt: Travis build status
