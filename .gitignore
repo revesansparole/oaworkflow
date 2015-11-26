@@ -1,6 +1,9 @@
 # {{pkglts github,
 *.py[cod]
 
+# pkglts files
+.pkglts
+
 # Packages
 *.egg
 *.egg-info
@@ -33,4 +36,4 @@ lib64
 # }}
 
 # user defined
-
+example/map*

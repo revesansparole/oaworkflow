@@ -1,6 +1,6 @@
 from nose.tools import assert_raises
 
-from workflow.func_node import RawFuncNode, FuncNode, argtype, rettype
+from openalea.workflow.func_node import RawFuncNode, FuncNode, argtype, rettype
 
 
 def test_raw_func_node_func_is_callable():

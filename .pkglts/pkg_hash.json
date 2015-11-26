@@ -2,7 +2,7 @@
     "./.coverage": [], 
     "./.coveragerc": [], 
     "./.gitignore": [
-        "8K/+FuyVXfT708i69uVzQy6x/0wPNweNbHM8msJ+EHPL7LQakq+cwyZGBnoNeVTymZnLs9p83PQJb+wJckH35g=="
+        "Cjj173iKwyapq5Ah7NNorfangAxcnPUpZxV9Vy8G0kOzkR4HYnMh9r2ehoiaEAjJWkEUcWqglikoES9oAGrwJQ=="
     ], 
     "./.landscape.yml": [], 
     "./.travis.yml": [
@@ -18,11 +18,11 @@
         "E3j0mShzGlIxZ4xuVvZB7HiXPhFN37lQpK4zGpKLH2CxFT0wYsauAqlum29tXYMW7OGE/jZ5USKQh9F2sTxE1w=="
     ], 
     "./README.rst": [
-        "gNG/RGXRLoAIPqQRh6Fs4u1ZeNtH+XnKDfrBu9DWgrghMuR4zLYI9urM9lQdtgm3o0eYjUkkLFxpPjJ41Bp82Q=="
+        "dDFU0wQlXXXfMpYv1olIfo4sUSZ/5l2cf38POt5u0Q796Bk63iq25Oso18AJm5HDH+UmUKBYxWTKDAepQwCjqQ=="
     ], 
     "./doc/authors.rst": [], 
     "./doc/conf.py": [
-        "gTo0lQmHHwp8Clf41fBmZop4cDYZSK0GJjQEzqHPANQ6AM1tIJ70mqhJWIlXS22tz51+pNcoyu4HgndjvcgnhA=="
+        "0xwHIJJn4ZhMuxiTmf/HnHpqY1gCVsr02kH5t/vwyaWi+Z9AL3ud2B3b6INYa29rG2vbFwZx/sAP72DTvAXQyw=="
     ], 
     "./doc/contributing.rst": [], 
     "./doc/history.rst": [], 
@@ -34,32 +34,36 @@
     "./doc/readme.rst": [], 
     "./doc/usage.rst": [], 
     "./dvlpt_requirements.txt": [
-        "xUCGnV4SHFAG8AsrCmrBJylWvHDe4w6Bgxr8Qe8oAFafOkauFUhPEZzK6GXbOoMT8Db+y3SC30GgCsez5AxjQQ=="
+        "hdkgY0Zg3KCVEA0QqBlwzP6P69qzGifSbM3+JtadWO1bsNRTpRDdaNTzd5a3D3C5NC3qoOlXOcFC4lClRDCTEw=="
     ], 
+    "./example/map evaluation - func.py": [], 
+    "./example/map evaluation - workflow.py": [], 
+    "./example/map evaluation.py": [], 
     "./example/simple evaluation.py": [], 
-    "./pkg_cfg.json": [], 
-    "./pkg_hash.json": [], 
     "./requirements.txt": [
-        "vmiIOMqGhuXJBom/KrWFzvETfJmbSMcLkvZ6XDTcFWl7XRHJgu1tcb4eHn97TgcziEqpfD96M5qO0DV3z3S+CQ=="
+        "AWuoxM/eZa+Zy1+ouKN+Lrc/SBs640mRZm3y4E/rbAOGZuvR7CtvYjlndWAzxwLd5fQj99R6tu0YJ/9TeDcx9w=="
     ], 
     "./setup.cfg": [
-        "Ci8VluJYlIZRKYyATSTusmyfewvnwk7Jsl0PHvBPgFP6Y5zQhiN4x7cTIKB9K4BpWnf5n3Y/Gm325bqaV30fzw=="
+        "33rF5yQeFkqRdK/tUEFgv5BughZT/BGm5jAWD6cOX/AIYA6TwOkC6YgcflyF5cVRa2b9gc2QXRRZOPgESsP6ZQ=="
     ], 
     "./setup.py": [
-        "DGbNwSxIQHkzDKyKXaYfRcXPkdu7xKn8wjQW/qV2s7igSIUAdwnnVJfP6d6k+SQPlicpywEw+B97KvU7UsLgHA=="
+        "DWDhJYWc6Dkep9EjbX296UHlnVoQbfiZhtHiX6eavu7KVAG3aODAtSDtquP/bE/ppeUv5VPSUJiORl1pFk1Hjg=="
     ], 
-    "./src/workflow/__init__.py": [
+    "./src/openalea/__init__.py": [
+        "2sk8h+XTWcTrTYSvRscCbTRjJWyGdgJ2THbA3Zxte+SsX5+26bbGIwhHi8qUCrhYN6Tk86o3wjiPrTg+2wmDuA=="
+    ], 
+    "./src/openalea/workflow/__init__.py": [
         "bXi4YRtInDLkaTvGi4V/ZIZpKXGCIgIw/Qm7wX5YZ+tM5kkkAAGCzzuDhxJDzcpoWKBE1UxDj7mT+40YH1DZQA==", 
         "fIn+GWAvhWfY/9NV/Sw6VXI4UIvx1OTgGxXQ1U5+9JFQ4vhuETzkaQvz8W4M9rMDYlL0vAeRmP2p2DyMgcvb9A=="
     ], 
-    "./src/workflow/evaluation.py": [], 
-    "./src/workflow/evaluation_environment.py": [], 
-    "./src/workflow/func_node.py": [], 
-    "./src/workflow/node.py": [], 
-    "./src/workflow/port_graph.py": [], 
-    "./src/workflow/state.py": [], 
-    "./src/workflow/sub_port_graph.py": [], 
-    "./src/workflow/version.py": [
+    "./src/openalea/workflow/evaluation.py": [], 
+    "./src/openalea/workflow/evaluation_environment.py": [], 
+    "./src/openalea/workflow/func_node.py": [], 
+    "./src/openalea/workflow/node.py": [], 
+    "./src/openalea/workflow/port_graph.py": [], 
+    "./src/openalea/workflow/state.py": [], 
+    "./src/openalea/workflow/sub_port_graph.py": [], 
+    "./src/openalea/workflow/version.py": [
         "9u2W46jEMEMq3ZJFhNBSDLcfV8R73vM1FPWlZz2LsxyOwW1/0fpDM16Yxig6tFhfdhNxz+Qw8gX0btUZqB898w=="
     ], 
     "./test/__init__.py": [], 
@@ -72,6 +76,6 @@
     "./test/test_sub_port_graph.py": [], 
     "./test/test_sub_port_graph.svg": [], 
     "./tox.ini": [
-        "w2+nfBonIzB7Ay9mHJlkOj/E5C+7ZEK5eEJ6554g1tNi2gRKkMHlGmcvNPT6QCn+8bhDpp7lmThnNsgqRMHa6Q=="
+        "T2R/UAeMZY3e7SJAcAygYrxVu0OOWjQU/8E4q/A+Ow/MgTVXRuEHRVWOwijN2oUVkSxrzL68ba7b7KpOwLdRYw=="
     ]
 }

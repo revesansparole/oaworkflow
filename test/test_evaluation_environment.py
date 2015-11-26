@@ -1,4 +1,4 @@
-from workflow.evaluation_environment import EvaluationEnvironment
+from openalea.workflow.evaluation_environment import EvaluationEnvironment
 
 
 def test_env_created_with_proper_id():
