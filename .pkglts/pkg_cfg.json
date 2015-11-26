@@ -8,25 +8,17 @@
         "owner": "revesansparole", 
         "pkgname": "workflow"
     }, 
-    "coverage": {
-        "option": null
-    }, 
-    "coveralls": {
-        "option": null
-    }, 
+    "coverage": {}, 
+    "coveralls": {}, 
     "doc": {
         "description": "Workflow core of openalea", 
         "keywords": ""
     }, 
-    "flake8": {
-        "option": null
-    }, 
+    "flake8": {}, 
     "github": {
         "project": "oaworkflow"
     }, 
-    "landscape": {
-        "option": null
-    }, 
+    "landscape": {}, 
     "license": {
         "name": "mit", 
         "organization": "oa", 
@@ -51,18 +43,10 @@
     "readthedocs": {
         "project": "{{key, github.project}}"
     }, 
-    "sphinx": {
-        "option": null
-    }, 
-    "test": {
-        "option": "None"
-    }, 
-    "tox": {
-        "option": null
-    }, 
-    "travis": {
-        "option": null
-    }, 
+    "sphinx": {}, 
+    "test": {}, 
+    "tox": {}, 
+    "travis": {}, 
     "version": {
         "major": 0, 
         "minor": 1, 
