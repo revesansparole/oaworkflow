@@ -33,6 +33,9 @@ lib64
 
 
 
+# pypi rc file
+.pypirc
+
 # }}
 
 # user defined

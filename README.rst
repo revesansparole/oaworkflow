@@ -20,6 +20,9 @@ workflow
     :alt: Code health status
     :target: https://landscape.io/github/revesansparole/oaworkflow/master
 
+.. image:: https://badge.fury.io/py/openalea.workflow.svg
+    :alt: PyPI version
+    :target: https://badge.fury.io/py/openalea.workflow
 
 .. }}
 

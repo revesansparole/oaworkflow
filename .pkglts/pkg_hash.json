@@ -2,9 +2,13 @@
     "./.coverage": [], 
     "./.coveragerc": [], 
     "./.gitignore": [
-        "Cjj173iKwyapq5Ah7NNorfangAxcnPUpZxV9Vy8G0kOzkR4HYnMh9r2ehoiaEAjJWkEUcWqglikoES9oAGrwJQ=="
+        "T01642p1keWZOXsf1vVwm0gLBK/jmAfZaagpRyRfnRICyeGUk5ruc/Rb6xNegD84OzhAo+SVpSjy6soX+5Oeqw=="
     ], 
     "./.landscape.yml": [], 
+    "./.pypirc": [
+        "nriHqyg0tZfJFzsWieR7xycUgCTFzHouvN5qvVWyEOMrf1J/z+hjfg/cJLXKbVOXKZce/CjIsONfHsrvI3R7rA==", 
+        "A/psVrrS7dUCsFN8HRQOYonTTb/pEVXipsvQ7dUjKtvtImZiaPZ+WQj/VojxFWOpW7b9p+piouCPi9zfKa8f1A=="
+    ], 
     "./.travis.yml": [
         "xjWsAB0nti/NMay8tUPUmwb/OZODF/Mm3tdBZ17ljg1UAI4hpvNzMM37AWnT/761Z9PAWUGYPwijssHdm69GdQ=="
     ], 
@@ -18,7 +22,7 @@
         "E3j0mShzGlIxZ4xuVvZB7HiXPhFN37lQpK4zGpKLH2CxFT0wYsauAqlum29tXYMW7OGE/jZ5USKQh9F2sTxE1w=="
     ], 
     "./README.rst": [
-        "kykgeTP3nr4+aZsB1NLoTG9H7ySvYEy+bZhsACJ17QUQt/VsOpKd85SmAkKx9cxFvhYp4Zeq0fS35ugt+PZKyw=="
+        "5w0W4ujDHhKm1b4maWRxPl+I3lh/kOregWg+RRVbtiNqFgAoxySf+PPn1Xu5vLpmlY7dDFqQvC3oFZgko53Djw=="
     ], 
     "./doc/authors.rst": [], 
     "./doc/conf.py": [
@@ -34,7 +38,7 @@
     "./doc/readme.rst": [], 
     "./doc/usage.rst": [], 
     "./dvlpt_requirements.txt": [
-        "hdkgY0Zg3KCVEA0QqBlwzP6P69qzGifSbM3+JtadWO1bsNRTpRDdaNTzd5a3D3C5NC3qoOlXOcFC4lClRDCTEw=="
+        "T8kwzO/cHSZBmG+c3d8pl+14iG1Nqkpx0J+OjA5kKIFk8CEb1A1ZjcEUEkExvopEc5Eb6a4UkNiWtHJg/+9l0g=="
     ], 
     "./example/map evaluation - func.py": [], 
     "./example/map evaluation - workflow.py": [], 
@@ -47,8 +51,16 @@
         "33rF5yQeFkqRdK/tUEFgv5BughZT/BGm5jAWD6cOX/AIYA6TwOkC6YgcflyF5cVRa2b9gc2QXRRZOPgESsP6ZQ=="
     ], 
     "./setup.py": [
-        "DWDhJYWc6Dkep9EjbX296UHlnVoQbfiZhtHiX6eavu7KVAG3aODAtSDtquP/bE/ppeUv5VPSUJiORl1pFk1Hjg=="
+        "142ieBTYMVx0E4AgPYikVnMjS5/kzRfabElYxt9mnnO4YwP0zkzlYqxj2iZwkCP4+GmjHyLKYPFXSZzWLb2+bg=="
     ], 
+    "./src/openalea.workflow.egg-info/PKG-INFO": [
+        "0WAs38a5Eg8bgGw5ySQirRKzr+CSsaXzz5mIWiY/aIRVTt//BEP3Kio+E8MZ7MPBvhD9nAv4f7l6onw2eNm/SA=="
+    ], 
+    "./src/openalea.workflow.egg-info/SOURCES.txt": [], 
+    "./src/openalea.workflow.egg-info/dependency_links.txt": [], 
+    "./src/openalea.workflow.egg-info/not-zip-safe": [], 
+    "./src/openalea.workflow.egg-info/requires.txt": [], 
+    "./src/openalea.workflow.egg-info/top_level.txt": [], 
     "./src/openalea/__init__.py": [
         "2sk8h+XTWcTrTYSvRscCbTRjJWyGdgJ2THbA3Zxte+SsX5+26bbGIwhHi8qUCrhYN6Tk86o3wjiPrTg+2wmDuA=="
     ], 
