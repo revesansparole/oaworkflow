@@ -30,7 +30,7 @@ project_root = os.path.dirname(cwd)
 # Insert the project root dir as the first element in the PYTHONPATH.
 # This lets us ensure that the source package is imported, and that its
 # version is used.
-sys.path.insert(0, os.path.join(project_root, os.path.dirname('src/workflow')))
+sys.path.insert(0, os.path.join(project_root, os.path.dirname('src/openalea/workflow')))
 
 # import workflow as mypkg
 
@@ -56,8 +56,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'workflow'
-copyright = u'2015, workflow'
+project = u'openalea.workflow'
+copyright = u'2015, openalea.workflow'
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -65,7 +65,7 @@ copyright = u'2015, workflow'
 
 # find version number in /src/$pkg_pth/version.py
 pkgver = {}
-with open("../src/workflow/version.py") as fp:
+with open("../src/openalea/workflow/version.py") as fp:
     exec(fp.read(), pkgver)
 
 # The short X.Y version.

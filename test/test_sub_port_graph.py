@@ -1,11 +1,11 @@
 from nose.tools import assert_raises
 
-from workflow.port_graph import (PortGraph,
-                                 InvalidEdge,
-                                 InvalidVertex,
-                                 InvalidPort)
-from workflow.sub_port_graph import (SubPortGraph,
-                                     get_upstream_subportgraph)
+from openalea.workflow.port_graph import (PortGraph,
+                                          InvalidEdge,
+                                          InvalidVertex,
+                                          InvalidPort)
+from openalea.workflow.sub_port_graph import (SubPortGraph,
+                                              get_upstream_subportgraph)
 
 
 def get_pg():

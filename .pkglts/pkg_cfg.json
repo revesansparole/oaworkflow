@@ -4,7 +4,7 @@
         "use_prompts": false
     }, 
     "base": {
-        "namespace": null, 
+        "namespace": "openalea", 
         "owner": "revesansparole", 
         "pkgname": "workflow"
     }, 
@@ -47,7 +47,7 @@
         ]
     }, 
     "readthedocs": {
-        "project": "openalea.workflow"
+        "project": "{{key, github.project}}"
     }, 
     "sphinx": {
         "option": null

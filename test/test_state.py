@@ -1,8 +1,8 @@
 from nose.tools import assert_raises
 
-from workflow.port_graph import PortGraph
-from workflow.state import WorkflowState
-from workflow.sub_port_graph import get_upstream_subportgraph
+from openalea.workflow.port_graph import PortGraph
+from openalea.workflow.state import WorkflowState
+from openalea.workflow.sub_port_graph import get_upstream_subportgraph
 
 
 def test_ws_is_created_empty():

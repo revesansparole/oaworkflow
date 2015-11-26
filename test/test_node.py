@@ -1,6 +1,6 @@
 from nose.tools import assert_raises
 
-from workflow.node import Node
+from openalea.workflow.node import Node
 
 
 def test_node_creation():

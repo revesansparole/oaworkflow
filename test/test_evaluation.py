@@ -1,14 +1,16 @@
 from nose.tools import assert_raises
 
-from workflow.evaluation import (EvaluationError,
-                                 AbstractEvaluation,
-                                 BruteEvaluation,
-                                 LazyEvaluation)
-from workflow.evaluation_environment import EvaluationEnvironment
-from workflow.func_node import RawFuncNode, FuncNode
-from workflow.port_graph import PortGraph
-from workflow.state import WorkflowState
-# from workflow.sub_port_graph import SubPortGraph
+from openalea.workflow.evaluation import (EvaluationError,
+                                          AbstractEvaluation,
+                                          BruteEvaluation,
+                                          LazyEvaluation)
+from openalea.workflow.evaluation_environment import EvaluationEnvironment
+from openalea.workflow.func_node import RawFuncNode, FuncNode
+from openalea.workflow.port_graph import PortGraph
+from openalea.workflow.state import WorkflowState
+
+
+# from openalea.workflow.sub_port_graph import SubPortGraph
 
 
 def test_abstract_evaluation_is_abstract():

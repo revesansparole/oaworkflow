@@ -27,13 +27,13 @@ def parse_requirements(fname):
 
 # find version number in /src/$pkg_pth/version.py
 version = {}
-with open("src/workflow/version.py") as fp:
+with open("src/openalea/workflow/version.py") as fp:
     exec(fp.read(), version)
 
 
 
 setup(
-    name='workflow',
+    name='openalea.workflow',
     version=version["__version__"],
     description=short_descr,
     long_description=readme + '\n\n' + history,

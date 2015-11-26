@@ -1,10 +1,10 @@
 from nose.tools import assert_raises
 
-from workflow.node import Node
-from workflow.port_graph import (PortGraph,
-                                 InvalidEdge,
-                                 InvalidPort,
-                                 InvalidVertex)
+from openalea.workflow.node import Node
+from openalea.workflow.port_graph import (PortGraph,
+                                          InvalidEdge,
+                                          InvalidPort,
+                                          InvalidVertex)
 
 
 def test_portgraph_init():
