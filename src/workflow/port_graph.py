@@ -3,11 +3,11 @@ to identified ports on vertices instead of directly to
 a given vertex.
 """
 
-from openalea.core.graph.id_generator import IdGenerator
-from openalea.core.graph.property_graph import (PropertyGraph,
+from openalea.container.id_generator import IdGenerator
+from openalea.container.property_graph import (PropertyGraph,
                                                 InvalidVertex,
                                                 InvalidEdge)
-from openalea.core.graph.interface.graph import GraphError
+from openalea.container.graph import GraphError
 
 
 class InvalidPort(GraphError, KeyError):
@@ -459,8 +459,8 @@ class PortGraph(PropertyGraph):
             raise InvalidPort(msg)
 
         eid = PropertyGraph.add_edge(self,
-                                     (self.vertex(source_pid),
-                                      self.vertex(target_pid)),
+                                     self.vertex(source_pid),
+                                     self.vertex(target_pid),
                                      eid)
         self.edge_property("_source_port")[eid] = source_pid
         self.edge_property("_target_port")[eid] = target_pid

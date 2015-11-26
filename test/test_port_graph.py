@@ -2,6 +2,7 @@ from nose.tools import assert_raises
 
 from workflow.node import Node
 from workflow.port_graph import (PortGraph,
+                                 InvalidEdge,
                                  InvalidPort,
                                  InvalidVertex)
 
@@ -382,7 +383,7 @@ def test_portgraph_add_actor():
     assert_raises(AttributeError, lambda: pg.add_actor(None, vid1 + 1))
     assert len(pg) == 1
     # vertex id already used
-    assert_raises(IndexError, lambda: pg.add_actor(actor, vid1))
+    assert_raises(InvalidVertex, lambda: pg.add_actor(actor, vid1))
     assert len(pg) == 1
 
     for key in actor.inputs():
@@ -393,7 +394,7 @@ def test_portgraph_add_actor():
 
     pg.set_actor(vid1, actor)
     # vertex id already used
-    assert_raises(IndexError, lambda: pg.add_actor(actor, vid1))
+    assert_raises(InvalidVertex, lambda: pg.add_actor(actor, vid1))
     assert len(pg) == 1
 
     vid2 = pg.add_actor(actor)
@@ -482,7 +483,7 @@ def test_portgraph_connect():
     assert pid2 in pg.connected_ports(pid1)
 
     # can not duplicate edge
-    assert_raises(IndexError, lambda: pg.connect(pid2, pid1, eid))
+    assert_raises(InvalidEdge, lambda: pg.connect(pid2, pid1, eid))
 
 
 def test_portgraph_add_vertex():
@@ -490,7 +491,7 @@ def test_portgraph_add_vertex():
 
     vid = pg.add_vertex()
     assert pg.nb_vertices() == 1
-    assert_raises(IndexError, lambda: pg.add_vertex(vid))
+    assert_raises(InvalidVertex, lambda: pg.add_vertex(vid))
 
     assert len(tuple(pg.ports(vid))) == 0
     assert pg.actor(vid) is None

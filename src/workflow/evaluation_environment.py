@@ -2,7 +2,7 @@
 for a dataflow evaluation.
 """
 
-from openalea.core.graph.id_generator import IdGenerator
+from openalea.container.id_generator import IdGenerator
 
 
 class EvaluationEnvironment(object):
